@@ -32,3 +32,7 @@ install_cask minishift
 
 # OpenShift-CLI
 install_or_update openshift-cli
+install_or_update hyperkit
+install_or_update docker-machine-driver-hyperkit
+sudo chown root:wheel /usr/local/opt/docker-machine-driver-hyperkit/bin/docker-machine-driver-hyperkit
+sudo chmod u+s /usr/local/opt/docker-machine-driver-hyperkit/bin/docker-machine-driver-hyperkit

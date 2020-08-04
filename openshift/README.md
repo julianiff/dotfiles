@@ -3,4 +3,5 @@ for macOS
 
 ## Local Kubernetes Development
 - Skaffold (Workflow for building, pushing and deploying the application)
-- 
+- MiniShift
+- OC Tools

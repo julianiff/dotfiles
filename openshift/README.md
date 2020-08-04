@@ -3,7 +3,7 @@ for macOS
 
 ## Local Kubernetes Development
 - Skaffold (Workflow for building, pushing and deploying the application)
-- MiniShift
+- MiniShift (mini version of openshift and configurations that are needed for it)
 - OC Tools
 
 ## How to install
